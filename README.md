@@ -26,5 +26,5 @@ It showcases my projects, skills, and interests in **Java development**, **web t
 
 - 📧 Email: parthipank2004@gmail.com  
 - 🌐 GitHub: [Parthi1201](https://github.com/Parthi1201)  
-- 💼 LinkedIn: [Parthipan K](www.linkedin.com/in/parthipank2004)
+- 💼 LinkedIn: [Parthipan K](https://www.linkedin.com/in/parthipank2004/)
 
