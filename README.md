@@ -6,7 +6,7 @@ It showcases my projects, skills, and interests in **Java development**, **web t
 
 ## 🔗 Live Site
 
-[View Portfolio](https://vercel.com/parthipan-ks-projects/parthipan-portfolio/67adk57Z4zhtTexwRu38rNmhFNqA)  
+[View Portfolio](https://parthipan-k.vercel.app/)  
 
 ## 📁 Files
 
