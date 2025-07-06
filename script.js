@@ -252,3 +252,20 @@ window.scrollTo({
   behavior: "smooth"
 });
 
+
+
+
+const hamburgerBtn = document.getElementById("hamburgerBtn");
+const mobileMenu = document.getElementById("mobileMenu");
+
+hamburgerBtn.addEventListener("click", () => {
+  mobileMenu.classList.toggle("active");
+});
+
+// Close menu on link click
+document.querySelectorAll(".mobile-menu a").forEach(link => {
+  link.addEventListener("click", () => {
+    mobileMenu.classList.remove("active");
+  });
+});
+
